@@ -38,6 +38,17 @@ a:hover{
   color: #EAF6F6;
 }
 
+.top-link{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  margin: 4px;
+}
+
+.top-link:hover{
+  color: gold;
+}
+
 p{
     line-height: 2;
 }
